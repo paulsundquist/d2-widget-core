@@ -1,7 +1,7 @@
-# d2-widget-updatedoclist
+# d2-widget-core
 
-This is the out of the box D2 Developer's Guide Sample widget.
+Core set of D2 widgets
 
-It lets the user specify search attributes
-Then sends those attributes as parameters to a D2 Query Form, 
-Which then loads the Doc List with the results.
+Subprojects:
+
+    charts
