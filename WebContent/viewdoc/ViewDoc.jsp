@@ -4,8 +4,8 @@
 
 <%@ page import="java.io.InputStream" %>
 <%@ page import="java.util.Properties" %>
-<%@ page import="com.documentum.fc.client.*"%>
-<%@ page import="com.documentum.fc.common.*"%>
+<%@ page import="com.documentum.fc.client.*"%><%@page import="com.documentum.fc.common.*"%>
+
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 
